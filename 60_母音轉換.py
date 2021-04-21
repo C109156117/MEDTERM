@@ -1,0 +1,7 @@
+n=input("請輸入一串小寫英文:")
+n1=n.replace('a','.')
+n2=n1.replace('e','.')
+n3=n2.replace('i','.')
+n4=n3.replace('0','.')
+n5=n4.replace('u','.')
+print(n5)
